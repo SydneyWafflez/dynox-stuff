@@ -27,3 +27,5 @@ As a way to look for funding that would allow Dynox to purchase an maintain more
 - Plus Member Only Polls
 - Dynox email
 - Priority Support
+
+[![Dynox-BINB](https://cloudexis.us/purchase-now.png)](https://cloudexis.net)
