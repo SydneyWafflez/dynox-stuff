@@ -1,6 +1,6 @@
 #   Dynox Updates
 
-[![N|Solid](https://cloudexis.us/pwdbylgl.png)](https://nodesource.com/products/nsolid)
+[![CloudExis](https://cloudexis.us/pwdbylgl.png)](https://cloudexis.net/)
 
 A changlelog of all things that we have done for Dynox, dated since 5/23/22
 
